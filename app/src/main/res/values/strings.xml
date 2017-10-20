@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">General Ledger</string>
+
+    <!-- SIGN UP -->
+    <string name="username">Nama Pengguna</string>
+    <string name="password">Password</string>
+    <string name="retypepassword">Ulangi Password</string>
+    <string name="alamatkios">Alamat Kios</string>
+    <string name="nohp">Nomor Handphone</string>
+    <string name="jenisKelamin">Jenis Kelamin</string>
+</resources>
